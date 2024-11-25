@@ -1,4 +1,4 @@
-public class Tablas_de_Multiplicar {
+public class Tablas_de_Multiplicar { 
     public static void main(String[] args) {
         int n=10;
         for(int m=1;m<=n;m++){
@@ -12,3 +12,4 @@ public class Tablas_de_Multiplicar {
             System.out.println();
         }
     }
+} 
